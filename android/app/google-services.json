@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7200250870",
+    "project_id": "warung-upb-1fbac",
+    "storage_bucket": "warung-upb-1fbac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7200250870:android:fdc3beaa70b49003d4c5d7",
+        "android_client_info": {
+          "package_name": "com.example.warungupb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7200250870-tk0gguvj6r43shd41oqu3ictpr9cuvi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYGVtVbro_V0Qjw_ESUwwfTdBqRRPQCxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7200250870-tk0gguvj6r43shd41oqu3ictpr9cuvi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
